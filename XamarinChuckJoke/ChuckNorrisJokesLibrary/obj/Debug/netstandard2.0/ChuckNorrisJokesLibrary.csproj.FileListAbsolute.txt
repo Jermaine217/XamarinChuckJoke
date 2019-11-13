@@ -1,0 +1,16 @@
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache

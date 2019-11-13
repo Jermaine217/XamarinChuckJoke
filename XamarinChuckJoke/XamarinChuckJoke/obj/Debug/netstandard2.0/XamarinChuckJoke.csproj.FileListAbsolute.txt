@@ -1,0 +1,17 @@
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\XamarinChuckJoke.csprojAssemblyReference.cache
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\Categoriesxaml.xaml.g.cs
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\XamarinChuckJoke.AssemblyInfoInputs.cache
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\XamarinChuckJoke.AssemblyInfo.cs
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\bin\Debug\netstandard2.0\XamarinChuckJoke.deps.json
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\bin\Debug\netstandard2.0\XamarinChuckJoke.dll
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\bin\Debug\netstandard2.0\ref\XamarinChuckJoke.dll
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\bin\Debug\netstandard2.0\XamarinChuckJoke.pdb
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\XamarinChuckJoke.csproj.CopyComplete
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\XamarinChuckJoke.dll
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\ref\XamarinChuckJoke.dll
+D:\Section 4\XamarinChuckJoke\XamarinChuckJoke\XamarinChuckJoke\obj\Debug\netstandard2.0\XamarinChuckJoke.pdb

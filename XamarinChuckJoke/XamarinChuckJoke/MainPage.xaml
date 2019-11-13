@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:PlatformConfiguration="clr-namespace:Xamarin.Forms.PlatformConfiguration;assembly=Xamarin.Forms.Core"
+             mc:Ignorable="d"
+             x:Class="XamarinChuckJoke.MainPage"
+             BackgroundColor="Black">
+    <ScrollView>
+
+        <StackLayout >
+            <Label
+               Text="AweGoVrek"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+               TextColor="DarkRed"
+               FontSize="50"
+               TextDecorations="Underline"
+               FontAttributes="Bold"
+              />
+            
+            <RelativeLayout>
+              <RelativeLayout.BindingContext>
+              <PlatformConfiguration:Android/>
+              </RelativeLayout.BindingContext>
+              <Image Source="Chuck_Norris_Zombie.jpg"
+              HeightRequest="400"
+              WidthRequest="410"
+                   />
+                
+            </RelativeLayout>
+            <Label
+               Text="&lt;&quot;Come Get Some&quot;&gt; "
+               HorizontalOptions="Center"
+               VerticalOptions=" Center"
+               FontSize="40"
+               FontAttributes="Bold" TextColor="#CA0911" TextDecorations="Underline"
+              />
+            
+            <Label
+               x:Name="JokeLabel"
+               HeightRequest="100"
+               VerticalOptions="CenterAndExpand"
+               TextColor="White"
+               FontSize="Medium"
+           />
+            
+            <Button
+               x:Name="JokeButton"
+               Text="Get Random Joke"
+               BorderColor="White"
+               TextColor="Black"
+               BackgroundColor="#ED1C1C"
+               HeightRequest="100"
+               FontSize="Large"
+           Clicked="JokeButton_Clicked" VerticalOptions="Center" Margin="0" TranslationY="0"
+           
+           />
+            <Button
+               x:Name="CategoryButton"
+               Text="Open Categories"
+               BorderColor="White"
+               TextColor="Black"
+               BackgroundColor="#ED1C1C"
+               HeightRequest="100"
+               FontSize="Large"
+               Clicked="CategoryButton_Clicked" VerticalOptions="Center" Margin="0" TranslationY="0"
+           
+           />
+
+
+
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
